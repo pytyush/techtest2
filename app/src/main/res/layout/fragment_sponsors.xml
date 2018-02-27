@@ -1,0 +1,35 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.android.technoriti.SponsorsFragment"
+    android:background="@color/colorPrimary">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+      <TextView
+        android:id="@+id/sponsorsText"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="@string/list_still_to_be_updated"
+        android:textSize="@dimen/SponsorsTextPadding"
+        android:textColor="@color/colorAccent"/>
+
+      <ImageView
+        android:layout_below="@id/sponsorsText"
+        android:id="@+id/sponsors2016"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:src="@drawable/sponsors2016"/>
+
+     <ImageView
+        android:layout_below="@+id/sponsors2016"
+        android:id="@+id/sponsors2015"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:src="@drawable/sponsors2015"/>
+    </RelativeLayout>
+
+</ScrollView>

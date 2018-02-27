@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.technoriti.DevelopersFragment"
+    android:background="@color/colorPrimary">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/developerstext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="30dp"
+        android:text="@string/developers_text"
+        android:textColor="@color/colorAccent"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/line"
+        android:layout_width="162dp"
+        android:layout_height="4dp"
+        android:layout_below="@+id/developerstext"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorAccent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/line"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:text="@string/pratyush_ranjan"
+        android:textColor="@color/colorAccent"
+        android:textSize="24sp"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:text="@string/pratyush11197_gmail_com"
+        android:textColor="@color/colorAccent"
+        android:textSize="12sp"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:text="@string/_91_8405844311"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/textView3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="67dp"
+        android:text="@string/sweta_rani"
+        android:textColor="@color/colorAccent"
+        android:textSize="24sp"
+        android:id="@+id/textView4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_below="@+id/textView4"
+        android:layout_marginTop="17dp"
+        android:text="@string/swetarani1110_gmail_com"
+        android:textColor="@color/colorAccent"
+        android:textSize="12sp" />
+
+</RelativeLayout>

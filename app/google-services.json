@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553158040058",
+    "firebase_url": "https://technoriti-master.firebaseio.com",
+    "project_id": "technoriti-master",
+    "storage_bucket": "technoriti-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553158040058:android:af35ddb2567b8507",
+        "android_client_info": {
+          "package_name": "com.example.android.technoriti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553158040058-va67s6a3s8tps5gemi6204uvg45q8rll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.technoriti",
+            "certificate_hash": "a45836a4c15f51d3ed3b7d0c8efa05389d18ebc6"
+          }
+        },
+        {
+          "client_id": "553158040058-j7mopu7s97u9o32jpfb3osu99o2arkng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvB-dwM9zAHyPFKeCWWCdGsLR2Slh0wNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553158040058-j7mopu7s97u9o32jpfb3osu99o2arkng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

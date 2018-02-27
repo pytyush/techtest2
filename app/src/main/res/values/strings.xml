@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TECHNORITI</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_still_to_be_updated">List Still To Be Updated!</string>
+    <string name="we_remember_you">We Remember you !</string>
+    <string name="web_client_id">553158040058-j7mopu7s97u9o32jpfb3osu99o2arkng.apps.googleusercontent.com</string>
+    <string name="loading">Logging in...</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="developers_text">Developers</string>
+    <string name="pratyush_ranjan">Pratyush Ranjan</string>
+    <string name="pratyush11197_gmail_com">pratyush11197@gmail.com</string>
+    <string name="_91_8405844311">+91-8405844311</string>
+    <string name="sweta_rani">Sweta Rani</string>
+    <string name="swetarani1110_gmail_com">swetarani1110@gmail.com</string>
+</resources>
